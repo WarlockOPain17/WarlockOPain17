@@ -7,9 +7,9 @@ Senior Engineer at Samsung Semiconductors India Research (SSIR)
 As a Senior Engineer with 2+ years of experience, I am a versatile and motivated professional with a strong foundation in Java, Unix, SQL and Web Development. With a track record of successfully managing projects, collaborating with cross-functional teams, and delivering measurable results, I am confident in my ability to contribute to any organization. I am a quick learner with excellent communication skills, and I am passionate about Coding and staying up-to-date with the latest trends and technologies
 
 * 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [My Resume](http://https://drive.google.com/file/d/1HrpL5hDbzM2pK-4_Ekhkc46vcu9DwRR1/view)
+* 🖥️  See my portfolio at [My Resume](https://drive.google.com/file/d/1HrpL5hDbzM2pK-4_Ekhkc46vcu9DwRR1/view)
 * ✉️  You can contact me at [aakashthewarrior17@gmail.com](mailto:aakashthewarrior17@gmail.com)
-* 🚀  I'm currently working on [My Personal Website](http://WarlockOPain17/PersonalSite)
+* 🚀  I'm currently working on [My Personal Website](https://warlockopain17.github.io/PersonalSite/)
 * 🧠  I'm learning Spring, Express, React, Node
 * 🤝  I'm open to collaborating on Any Web Dev Projects
 
